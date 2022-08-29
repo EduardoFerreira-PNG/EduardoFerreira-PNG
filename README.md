@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje eu trabalho como Freelancer
-- 🌱 Atualmente estudando JavaScript
+- 🌱 Atualmente estudando ReactJS
 
 <div align="center">
   <a href="https://github.com/EduardoFerreira-PNG">
